@@ -1,5 +1,5 @@
 body{
-  background-image: url(Minecraft.png);
+  background-image: url(img-03.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -17,4 +17,8 @@ p{
   font-size: 20px;
   text-align: center;
   color: white;
+}
+.minecraft{
+  width: 500px;
+  float: left;
 }
