@@ -1,0 +1,24 @@
+body{
+  background-image: url(img-03.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  font-size: 40px;
+  font-family: Minecraft;
+  text-align: center;
+  color: whitesmoke;
+  background-color: black;
+}
+p{
+  font-weight: bolder;
+  font-family: "Arial";
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+.minecraft{
+  width: 500px;
+  float: left;
+}
